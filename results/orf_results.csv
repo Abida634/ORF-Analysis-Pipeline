@@ -1,0 +1,5 @@
+sequence_id,orf_id,strand,frame,start,end,length,protein_length,protein
+seq1,ORF_1,+,1,1,15,15,4,MAKF
+seq1,ORF_2,+,2,20,34,15,4,MKPG
+seq2,ORF_1,+,1,1,21,21,6,MRTLAS
+seq2,ORF_2,-,3,14,25,12,3,MLS
